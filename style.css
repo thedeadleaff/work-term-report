@@ -174,7 +174,6 @@ section::before {
 
 .container {
     width: 100%;
-    display: block;
     margin: auto;
     padding-bottom: 100px;
     background: #1c0522;
@@ -188,13 +187,13 @@ section::before {
 .image-section {
     float: right;
     position: relative;
-    width: 25%;
-    padding-right: 50px;
+    width: 35%;
 }
 
 .image-section img {
     width: 80%;
     height: auto;
+    padding: 20px;
 }
 
 .sec {
