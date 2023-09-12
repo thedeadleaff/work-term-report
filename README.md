@@ -1,2 +1,2 @@
 # Work Term Report
-My work term report for co-op S22 at Digital Kitchener Innovation Lab for the City of Kitchener!
+My work term report for my final co-op W23 & S23 at Purolator's Digital Lab!
