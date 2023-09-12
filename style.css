@@ -208,6 +208,12 @@ section::before {
     color: azure;
 }
 
+.sec h4 {
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: azure;
+}
+
 .sec h5 {
     font-size: 40px;
     margin-bottom: 10px;
